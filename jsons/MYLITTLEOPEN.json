@@ -6,7 +6,8 @@
     "asset_supply":"1",
     "asset_divisible":false,
     "asset_locked":true,
-    
+
+"image":"https://xcp.dankinfo.art/thumbs/MYLITTLEOPENTHUMB.jpg",    
     "image_large":"https://xcp.dankinfo.art/danks/MYLITTLEOPEN.gif",
     "image_title":"mylittleopen"
 }
