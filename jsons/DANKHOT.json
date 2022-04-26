@@ -1,12 +1,12 @@
 {
     "success":true,
-    "asset":"ethq",
+    "asset":"DANK.hot",
     "asset_issuer_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
     "asset_owner_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
-    "asset_supply":"1",
-    "asset_divisible":false,
+    "asset_supply":"111",
+    "asset_divisible":true,
     "asset_locked":true,
-    "image":"https://xcp.dankinfo.art/thumbs/ETHQTHUMB.png",
-    "image_large":"https://xcp.dankinfo.art/danks/ETHQ.png",
-    "image_title":"pinksheet ether"
+    "image":"https://xcp.dankinfo.art/thumbs/DANKHOTTHUMB.png",
+    "image_large":"https://xcp.dankinfo.art/danks/DANKHOT.png",
+    "image_title":"dank.hot"
 }
