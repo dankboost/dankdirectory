@@ -6,6 +6,7 @@
     "asset_supply":"10",
     "asset_divisible":false,
     "asset_locked":true,
+    "website":"dankdirectory.io",
     "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/DANKPARTYPAINT.png\" class=\"img-responsive\" /><br /> ",
     "image":"https://xcp.dankinfo.art/thumbs/DANKPARTYPAINTthumb.png",
     "image_title":"dankparty paint"
