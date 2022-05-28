@@ -6,6 +6,7 @@
     "asset_supply":"100",
     "asset_divisible":false,
     "asset_locked":true,
+    "image":"https://xcp.dankinfo.art/thumbs/PEGETATHUMB.png",
     "description":"<video src=\"https://xcp.dankinfo.art/danks/pegeta.mp4\" controls loop autoplay style=\"border-radius: 5px; border:0; background-color: black; box-shadow: 3px 3px 4px rgba(0,0,0,0.2);\" width=\"400\" height=\"560\" ></video> <img hidden src=\"lkjasdkljasljkdas.jpg\" onerror=\"this.onerror = null;try{document.querySelectorAll('#digitalArtInfo, #additionalCustomInfo ').forEach((elt)=>elt.setAttribute('hidden',true));document.querySelector('#assetExtendedDescription').classList.add('text-center');}catch(e){console.log(e)}\">"
     "video":"https://xcp.dankinfo.art/danks/pegeta.mp4"
 }
