@@ -1,13 +1,13 @@
 {
     "success":true,
-    "asset":"VAPORMAGIC.METAL",
+    "asset":"VAPORMAGIC.SYNESTHESIA",
     "asset_issuer_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
     "asset_owner_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.NAKAMOTOcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.NAKAMOTOthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.NAKAMOTO.jpg",
-    "image_title":"magic metal"
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.SYNESTHESIAcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.SYNESTHESIAthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.SYNESTHESIA.jpg",
+    "image_title":"magic synesthesia"
 }
