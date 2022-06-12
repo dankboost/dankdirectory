@@ -6,8 +6,8 @@
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.KADINSKYcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.KADINSKYthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.KADINSKY.jpg",
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KADINSKYcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KADINSKYthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KADINSKY.jpg",
     "image_title":"magic kadinsky"
 }

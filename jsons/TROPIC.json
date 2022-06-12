@@ -6,8 +6,8 @@
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.TROPICcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.TROPICthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.TROPIC.jpg",
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.TROPICcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.TROPICthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.TROPIC.jpg",
     "image_title":"magic tropic"
 }

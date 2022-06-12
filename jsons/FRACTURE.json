@@ -6,8 +6,8 @@
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.FRACTUREcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.FRACTUREthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.FRACTURE.jpg",
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.FRACTUREcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.FRACTUREthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.FRACTURE.jpg",
     "image_title":"magic fracture"
 }

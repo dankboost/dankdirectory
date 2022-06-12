@@ -6,8 +6,8 @@
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/VAPORMAGIC.SHADOWcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/thumbs/VAPORMAGIC.SHADOWthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/danks/VAPORMAGIC.SHADOW.jpg",
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.SHADOWcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.SHADOWthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.SHADOW.jpg",
     "image_title":"magic shadow"
 }
