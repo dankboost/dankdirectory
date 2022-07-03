@@ -6,8 +6,8 @@
     "asset_supply":"300",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/BOBOMAGIC/BOBOMAGIC.png\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/BOBOMAGIC/BOBOMAGICthumb.png",
-    "image_large":"https://xcp.dankinfo.art/BOBOMAGIC/BOBOMAGIC.png",
-    "image_title":"magic pointillist"
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/BOBOMAGICCARD.png\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/thumbs/BOBOMAGICthumb.png",
+    "image_large":"https://xcp.dankinfo.art/danks/BOBOMAGIC.png",
+    "image_title":"bobo magic"
 }
