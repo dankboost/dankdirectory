@@ -1,0 +1,16 @@
+{
+    "success":true,
+    "asset":"SUEMEME",
+    "asset_issuer_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+    "asset_owner_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+    "asset_supply":"100",
+    "asset_divisible":false,
+    "website": "dankdirectory.io",
+    "pgpsig": "dankboost",
+    "category": "dank meme",
+    "asset_locked":true,
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/SUEMEMECARD.png\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/thumbs/SUEMEMEthumb.png",
+    "image_large":"https://xcp.dankinfo.art/danks/SUEMEME.png",
+    "image_title":"1-800-SUE-MEME"
+}
