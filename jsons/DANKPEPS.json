@@ -1,0 +1,16 @@
+{
+    "success":true,
+    "asset":"DANKPEPS",
+    "asset_issuer_address":"15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+    "asset_owner_address":"15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+    "asset_supply":"69",
+    "asset_divisible":false,
+    "website": "dankdirectory.io",
+    "pgpsig": "dankboost",
+    "category": "dank art",
+    "asset_locked":true,
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/DANKPEPSsmall.png\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/thumbs/DANKPEPSthumb.png",
+    "image_large":"https://xcp.dankinfo.art/danks/DANKPEPS.png",
+    "image_title":"Another volume"
+}
