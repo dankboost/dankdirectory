@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"RAREBOBO",
+    "asset_issuer_address":"15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+    "asset_owner_address":"15hsviNmfwxzYSGNLh14NrPdMNh459fAUT",
+    "asset_supply":"300",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://xcp.dankinfo.art/thumbs/RAREBOBOTHUMB.png",
+    "image_large":"https://xcp.dankinfo.art/danks/RAREBOBO.png",
+    "image_title":"The Rarest Bobo"
+}
