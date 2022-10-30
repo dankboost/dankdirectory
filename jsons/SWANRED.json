@@ -6,9 +6,8 @@
     "asset_supply":"21",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/SWANREDcard.png\" class=\"img-responsive\" /><br /> ",
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/SWANRED.png\" class=\"img-responsive\" /><br /> ",
     "image":"https://xcp.dankinfo.art/thumbs/SWANREDthumb.png",
     "image_large":"https://xcp.dankinfo.art/danks/SWANREDcard.png",
-    "image_title":"swanred",
-    "image_highres":"https://xcp.dankinfo.art/danks/SWANRED.png"
+    "image_title":"swanred"
 }
