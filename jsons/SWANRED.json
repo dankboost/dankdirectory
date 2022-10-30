@@ -1,0 +1,13 @@
+{
+    "success":true,
+    "asset":"VAPORMAGIC.KNIFE",
+    "asset_issuer_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+    "asset_owner_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
+    "asset_supply":"300",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFEcard.jpg\" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFEthumb.jpg",
+    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFE.jpg",
+    "image_title":"magic knife"
+}
