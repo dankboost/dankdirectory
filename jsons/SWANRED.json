@@ -1,13 +1,13 @@
 {
     "success":true,
-    "asset":"VAPORMAGIC.KNIFE",
-    "asset_issuer_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
-    "asset_owner_address":"1A62aP7McxBpuSsypGtbVoGqPj6N6rNMyT",
-    "asset_supply":"300",
+    "asset":"SWANRED",
+    "asset_issuer_address":"bc1qzcm54337frk5nhrcwg9rat0y9gettfsfad0vck",
+    "asset_owner_address":"bc1qzcm54337frk5nhrcwg9rat0y9gettfsfad0vck",
+    "asset_supply":"21",
     "asset_divisible":false,
     "asset_locked":true,
-    "description": " <br /><img src=\"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFEcard.jpg\" class=\"img-responsive\" /><br /> ",
-    "image":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFEthumb.jpg",
-    "image_large":"https://xcp.dankinfo.art/VAPORMAGIC/VAPORMAGIC.KNIFE.jpg",
-    "image_title":"magic knife"
+    "description": " <br /><img src=\"https://xcp.dankinfo.art/danks/SWANREDcard.png" class=\"img-responsive\" /><br /> ",
+    "image":"https://xcp.dankinfo.art/thumbs/SWANREDthumb.png",
+    "image_large":"https://xcp.dankinfo.art/danks/SWANRED.png",
+    "image_title":"swanred"
 }
